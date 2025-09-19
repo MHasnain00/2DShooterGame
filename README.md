@@ -44,6 +44,6 @@ Your health reaches zero.
 Once the game is over, you’ll see your final score and can restart to try again.
 
 Here is the link to download. 
-
+https://mhasnain000.itch.io/2d-shooter-game
 
 👉 The fun of the game lies in testing your reflexes, improving accuracy, and challenging yourself to last longer each time!
